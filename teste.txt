@@ -1,0 +1,38 @@
+Lista de Compras - Mercado
+
+Hortifruti:
+- Banana (1 cacho)
+- Maçã (1 kg)
+- Tomate (500 g)
+- Alface (1 pé)
+- Cenoura (500 g)
+- Limão (6 unidades)
+
+Laticínios:
+- Leite integral (2 litros)
+- Queijo mussarela (300 g)
+- Iogurte natural (2 potes)
+- Manteiga (200 g)
+
+Padaria / Cereais:
+- Pão de forma (1 pacote)
+- Arroz (2 kg)
+- Feijão carioca (1 kg)
+- Macarrão espaguete (500 g)
+- Aveia (500 g)
+
+Carnes:
+- Frango (1 kg)
+- Carne moída (500 g)
+- Ovos (1 dúzia)
+
+Bebidas:
+- Suco de laranja (1 litro)
+- Água mineral (6 garrafinhas)
+- Café (250 g)
+
+Limpeza / Higiene:
+- Sabão em pó (1 caixa)
+- Detergente (1 frasco)
+- Shampoo (1 frasco)
+- Papel higiênico (pacote com 8 rolos)
