@@ -28,3 +28,9 @@ Single-file Streamlit app (`app.py`) that fetches Brazilian stock data from Yaho
 
 1. Add an entry to `TICKERS` and `COLORS` in `app.py`.
 2. No other changes needed — the sidebar checkboxes, metric cards, and all three charts are generated dynamically from `selected_names`.
+
+## GitHub sync automático
+
+O repositório remoto é `https://github.com/linoxx161-0/Acoes_teste` (branch `main`).
+
+Um hook `Stop` está configurado em `.claude/settings.local.json`: ao final de cada resposta do Claude Code, qualquer alteração no projeto é automaticamente staged, commitada com timestamp e enviada ao GitHub via `git push origin main`. O commit só ocorre se houver mudanças reais (o hook verifica `git diff --cached` antes de commitar).

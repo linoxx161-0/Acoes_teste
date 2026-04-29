@@ -5,5 +5,20 @@
       "PowerShell(git config *)",
       "Bash(git *)"
     ]
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git add -A && (git diff --cached --quiet || (git commit -m \"auto: atualização automática $(date '+%Y-%m-%d %H:%M:%S')\" && git push origin main)) 2>/dev/null || true",
+            "shell": "bash",
+            "timeout": 60,
+            "statusMessage": "Sincronizando com GitHub..."
+          }
+        ]
+      }
+    ]
   }
 }
